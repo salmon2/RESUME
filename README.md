@@ -60,7 +60,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/23234577/146787734-74fdb81f-9929-4623-ace3-bd8a35998ea0.png" width = 240 height =120>
+<img src="https://user-images.githubusercontent.com/23234577/146789170-fff88083-8f90-4126-849a-8b93697aa764.png" width = 240 height =120>
 
 ### 넷플릭스 클론코딩
 - 기간 : 21.10, 1주

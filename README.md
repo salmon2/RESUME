@@ -52,9 +52,9 @@
   -	전반적인 API 설계
   -	Querydsl 라이브러리를 통한 동적 쿼리 처리와 코드 재사용성과 유지보수성 증가
   -	Open API와 스케줄링 프로그래밍을 통한 최신 기상 데이터 확보로 추천 서비스의 신뢰성 확보
-  -	gti Action과 codedeploy로 CI/CD 무중단 배포 환경 구축으로 서버 안정성 확보
+  -	Action과 AWS Codedeploy로 CI/CD 무중단 배포 환경 구축으로 서버 안정성 확보
   -	NginX를 이용하여 SSL 아키텍쳐 구성
-  - Spring Actuator와 spring Admin을 통한 모니터링 서버 구축
+  - Spring Actuator와 Spring Admin을 통한 모니터링 서버 구축
   -	Jasypt를 이용한 properties 암호화  
   -	최종 발표 진행 (https://www.youtube.com/watch?v=mB3gAzsY8s4)
 - 작업과정은 [기술블로그](https://eating-salmon.tistory.com/category/%ED%95%AD%ED%95%B499/%EC%8B%A4%EC%A0%84%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)에 정리해두었습니다.

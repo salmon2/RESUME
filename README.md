@@ -82,6 +82,11 @@
 - [Spring에서 사용할 수 있는 유용한 기술들](https://eating-salmon.tistory.com/category/Spring/%EA%B8%B0%ED%83%80%20%EC%BD%94%EB%93%9C%EB%93%A4)
 
 
+## 특이사항
+- 항해99 3기 1회 항해톡 : [객체 지향 설계 5원칙과 스프링](https://youtu.be/YpD7bb8l4bk)
+- 항해99 3기 2회 항해톡 : [ORM에 대해서](https://youtu.be/NW94OqhBd50)
+
+
 
 
 

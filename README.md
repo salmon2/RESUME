@@ -43,9 +43,7 @@
 - github : https://github.com/salmon2/StarProject    
 - site url : https://www.stellakorea.co.kr
 - 팀원 : 3 Frontend(React), 3 Backend(Spring), 2 Designer
-- 관련기술: Spring Boot, GitHub Action, Spring Admin, Spring Data JPA, 
-
-Querydsl, Mysql, Nginx, AWS EC2, AWS CodeDeploy, Jasypt
+- 관련기술: Spring Boot, GitHub Action, Spring Admin, Spring Data JPA, Querydsl, Mysql, Nginx, AWS EC2, AWS CodeDeploy, Jasypt
 
 
 -	PM역활, 전체 지휘, 의견 조율, 팀 팔로우 업
